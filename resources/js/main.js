@@ -24,7 +24,7 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
     });
 });
 
-document.querySelector('.burger-btn').addEventListener('click', () => document.body.classList.toggle('mobile-menu-open'));
+// document.querySelector('.burger-btn').addEventListener('click', () => document.body.classList.toggle('mobile-menu-open'));
 
 const blockHomescreen = document.querySelector('.block-homescreen');
 if (blockHomescreen) {
