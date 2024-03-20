@@ -1,0 +1,31 @@
+$main-font: 'Inter';
+$title-font: 'Inter';
+
+$duration: 0.3s;
+
+$text-base: #363946;
+$text-darker: #1F2022;
+
+$blue: #267AFF;
+
+$text-color: $text-base;
+
+$body-bg: #fff;
+$light-bg: #F4F7FF;
+$dark-bg: #26282E;
+
+$container-inner-width: 1240px;
+$container-padding-x: 80px;
+$container-padding-x-tablet: 24px;
+$container-padding-x-mobile: 16px;
+
+$container-max-width: calc(#{$container-inner-width} + 2*#{$container-padding-x});
+$tablet-max-width: 1023px;
+$mobile-max-width: 767px;
+
+$block-padding-y-desktop: 96px;
+$block-padding-y-tablet: 80px;
+$block-padding-y-mobile: 64px;
+
+$block-padding-y-smaller-desktop: 72px;
+$block-padding-y-smaller-mobile: 48px;
