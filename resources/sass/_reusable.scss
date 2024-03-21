@@ -44,6 +44,12 @@
     margin-right: auto;
     @include mobile {
         font-size: 14px;
+        max-width: 100%;
+    }
+    br {
+        @include mobile {
+            display: none;
+        }
     }
 }
 

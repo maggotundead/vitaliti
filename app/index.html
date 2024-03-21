@@ -20,7 +20,6 @@
 
 	<body>
 		<div class="site-wrapper">
-
 			<header class="header">
 				<div class="container">
 					<a href="/" class="logo">
@@ -74,7 +73,7 @@
 							></video> -->
 							<video
 								class="video"
-								src="/videowelcome.mov"
+								src="/video/welcome.mov"
 								poster="/video/welcome-poster.mp4"
 								controls=""
 								preload="metadata"
@@ -89,7 +88,11 @@
 
 				<section class="block-steps">
 					<div class="bg">
-						<img src="/img/steps-bg-figure.svg" alt="">
+						<picture>
+							<source media="(max-width: 767px)" srcset="img/steps-bg-figure-mobile.svg">
+							<source media="(min-width: 768px)" srcset="img/steps-bg-figure-desktop.svg">
+							<img src="img/steps-bg-figure-desktop.svg" alt="">
+						</picture>
 					</div>
 					<div class="container">
 						<div class="block-head">
@@ -100,7 +103,117 @@
 								Proactive ‘Health’ Care Led by World-class Doctors <br> and Scientists.
 							</div>
 						</div>
-						<div class="swiper-container">
+						<div class="steps-list">
+							<div class="step-item">
+								<div class="step-item-number">
+									01
+									<span>
+										/ Step
+									</span>
+								</div>
+								<div class="step-item-title">
+									Half Day On-Site Baseline
+								</div>
+								<div class="step-item-image">
+									<img src="/img/temp/step-item-1.jpg" alt="">
+								</div>
+								<div class="step-item-overlay">
+									<div class="step-item-label">
+										Step 1
+									</div>
+									<div class="step-item-title">
+										Half Day On-Site Baseline
+									</div>
+									<ul class="step-item-descr">
+										<li>
+											Comprehensive assessment of thousands of biomarkers
+										</li>
+										<li>
+											Identification of cardiovascular, cancer, neurologic, & metabolic risks
+										</li>
+										<li>
+											Deep cognitive assessment
+										</li>
+										<li>
+											Measurement of biological age
+										</li>
+										<li>
+											Monitoring of blood glucose, exercise, sleep performance, and stress levels
+										</li>
+										<li>
+											And lots more!
+										</li>
+									</ul>
+								</div>
+							</div>
+							<div class="step-item">
+								<div class="step-item-number">
+									02
+									<span>
+										/ Step
+									</span>
+								</div>
+								<div class="step-item-title">
+									Personalized <br> Report
+								</div>
+								<div class="step-item-image">
+									<img src="/img/temp/step-item-2.jpg" alt="">
+								</div>
+								<div class="step-item-overlay">
+									<div class="step-item-label">
+										Step 2
+									</div>
+									<div class="step-item-title">
+										Personalized <br> Report
+									</div>
+									<ul class="step-item-descr">
+										<li>
+											Your Vitality Quotient 
+										</li>
+										<li>
+											Detailed and in-depth understanding of your personal health icebergs
+										</li>
+										<li>
+											Most comprehensive summary of the state of your health
+										</li>
+									</ul>
+								</div>
+							</div>
+							<div class="step-item">
+								<div class="step-item-number">
+									03
+									<span>
+										/ Step
+									</span>
+								</div>
+								<div class="step-item-title">
+									Week By Week <br> Action Plan
+								</div>
+								<div class="step-item-image">
+									<img src="/img/temp/step-item-3.jpg" alt="">
+								</div>
+								<div class="step-item-overlay">
+									<div class="step-item-label">
+										Step 3
+									</div>
+									<div class="step-item-title">
+										Week By Week <br> Action Plan
+									</div>
+									<ul class="step-item-descr">
+										<li>
+											Personalized and actionable lifestyle focus 
+										</li>
+										<li>
+											Supported by the foremost behavior change scientists in the world
+										</li>
+										<li>
+											Action Plan supported by Diet, Exercise, Sleep, Nutrition and more.
+										</li>
+									</ul>
+								</div>
+							</div>
+						</div>
+						<!-- <div class="swiper-container">
 							<div class="swiper-wrapper">
 								<div class="swiper-slide">
 									<div class="step-item">
@@ -217,7 +330,7 @@
 									</div>
 								</div>
 							</div>
-						</div>
+						</div> -->
 					</div>
 				</section>
 
@@ -475,7 +588,8 @@
 							</div>
 							<div class="figure">
 								<img src="/img/human-body.svg" alt="">
-								<div class="markers-type-group active">
+								<!-- <div class="markers-type-group active"> -->
+								<div class="markers-type-group">
 									<div class="marker-item">
 										<div class="marker-item-icon">
 											<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -515,6 +629,7 @@
 									</div>
 								</div>
 								<div class="markers-type-group">
+								<!-- <div class="markers-type-group active"> -->
 									<div class="marker-item">
 										<div class="marker-item-icon">
 											<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -580,7 +695,8 @@
 										</div>
 									</div>
 								</div>
-								<div class="markers-type-group">
+								<!-- <div class="markers-type-group"> -->
+								<div class="markers-type-group active">
 									<div class="marker-item">
 										<div class="marker-item-icon">
 											<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -656,7 +772,11 @@
 						<div class="banner-text-group">
 							<div class="text-col">
 								<div class="text-bg">
-									<img src="/img/text-figure.svg" alt="">
+									<picture>
+										<source media="(max-width: 767px)" srcset="img/text-figure-mobile.svg">
+										<source media="(min-width: 768px)" srcset="img/text-figure-desktop.svg">
+										<img src="img/text-figure-desktop.svg" alt="">
+									</picture>
 								</div>
 								<div class="text">
 									<div class="block-title">
@@ -676,7 +796,11 @@
 
 				<section class="block-advantages">
 					<div class="bg">
-						<img src="/img/steps-bg-figure.svg" alt="">
+						<picture>
+							<source media="(max-width: 767px)" srcset="img/advantages-bg-figure-mobile.svg">
+							<source media="(min-width: 768px)" srcset="img/advantages-bg-figure-desktop.svg">
+							<img src="img/advantages-bg-figure-desktop.svg" alt="">
+						</picture>
 					</div>
 					<div class="container">
 						<div class="block-title text-center">
@@ -886,7 +1010,11 @@
 
 				<section class="block-cta dark-bg">
 					<div class="bg">
-						<img src="/img/cta-bg-figure.svg" alt="">
+						<picture>
+							<source media="(max-width: 767px)" srcset="img/cta-bg-figure-mobile.svg">
+							<source media="(min-width: 768px)" srcset="img/cta-bg-figure-desktop.svg">
+							<img src="img/cta-figure-desktop.svg" alt="">
+						</picture>
 					</div>
 					<div class="container">
 						<div class="banner-text-group">
@@ -895,7 +1023,11 @@
 							</div>
 							<div class="text-col">
 								<div class="text-bg">
-									<img src="/img/text-figure.svg" alt="">
+									<picture>
+										<source media="(max-width: 767px)" srcset="img/text-figure-mobile.svg">
+										<source media="(min-width: 768px)" srcset="img/text-figure-desktop.svg">
+										<img src="img/text-figure-desktop.svg" alt="">
+									</picture>
 								</div>
 								<div class="text">
 									<div class="block-title">

@@ -65,8 +65,9 @@ if (blockFeedback) {
 
         breakpoints: {
             320: {
-                slidesPerView: 1.48,
+                slidesPerView: 1,
                 spaceBetween: 16,
+                centerMode: false,
             },
             768: {
                 slidesPerView: 'auto',
