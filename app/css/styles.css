@@ -1261,10 +1261,10 @@ section {
     align-items: flex-start;
     justify-content: space-between;
     background-color: #267AFF;
-    background-image: url("../img/step-card-overlay-figure-desktop.svg");
+    background-image: url("../img/step-card-overlay-figure-mobile.svg");
     background-position: top right;
     background-repeat: no-repeat;
-    background-size: 400px 236px;
+    background-size: 100% auto;
     padding: 32px;
     color: #fff;
     opacity: 0;
@@ -1272,9 +1272,7 @@ section {
     z-index: 2; }
     @media screen and (max-width: 767px) {
       .block-steps .step-item-overlay {
-        padding: 24px;
-        background-image: url("../img/step-card-overlay-figure-mobile.svg");
-        background-size: 100% auto; } }
+        padding: 24px; } }
   .block-steps .step-item-label {
     display: flex;
     align-items: center;
