@@ -1209,6 +1209,9 @@ section {
             padding-bottom: 72px !important;
         }
     }
+    &:has(.team-list:empty) {
+        display: none;
+    }
     .team-list {
         margin-top: 48px;
         width: 100%;
@@ -1249,6 +1252,10 @@ section {
                     font-weight: 600;
                 }
             }
+        }
+
+        * {
+            pointer-events: none;
         }
 
         &-banner {
@@ -1298,6 +1305,12 @@ section {
                 // display: none;
                 font-size: 9px;
                 padding: 12px;
+            }
+            span {
+                display: -webkit-box;
+                -webkit-line-clamp: 5;
+                -webkit-box-orient: vertical;
+                overflow: hidden;
             }
         }
         &-readmore {

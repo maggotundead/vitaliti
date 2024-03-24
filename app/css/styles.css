@@ -2022,6 +2022,9 @@ section {
       padding-top: 128px !important;
       padding-bottom: 72px !important; } }
 
+.block-team:has(.team-list:empty) {
+  display: none; }
+
 .block-team .team-list {
   margin-top: 48px;
   width: 100%;
@@ -2052,6 +2055,8 @@ section {
     .block-team .team-item:hover .team-item-name {
       color: #267AFF;
       font-weight: 600; } }
+  .block-team .team-item * {
+    pointer-events: none; }
   .block-team .team-item-banner {
     position: relative;
     overflow: hidden;
@@ -2093,6 +2098,11 @@ section {
       .block-team .team-item-descr {
         font-size: 9px;
         padding: 12px; } }
+    .block-team .team-item-descr span {
+      display: -webkit-box;
+      -webkit-line-clamp: 5;
+      -webkit-box-orient: vertical;
+      overflow: hidden; }
   .block-team .team-item-readmore {
     text-transform: uppercase;
     position: absolute;

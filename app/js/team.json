@@ -1,0 +1,282 @@
+[
+    {
+      "personName": "Mahmood Panjwani",
+      "personPosition": "Founder & CEO",
+      "personBio": "Mahmood is the Founder and CEO at Vitaliti. He is a seasoned Silicon Valley entrepreneur who has started numerous companies, including an IPO, over the last 30 years. Previously, he was Co-founder, Chairman & CEO at iManage where he took the company from idea through product, funding, scaling, IPO/exit, and board governance. Mahmood was also Chairman at Infinisim (an EDA company) and Entrepreneur in Residence at Artiman Ventures, where he was involved in various biotech companies.",
+      "personRole": "team",
+      "personImage": "/img/persons/mahmood-panjwani.png"
+    },
+    {
+      "personName": "Mehul Patel",
+      "personPosition": "Chief Product Officer",
+      "personBio": "Mehul Patel is the Chief Product Officer at Vitaliti. He has extensive experience in product management and development leadership, with a focus on artificial intelligence and machine learning. Previously, Mehul was Vice President of Products at Deepgram, where he led product management for its artificial intelligence platform for developers. Prior to that, he was Director of Product Management at SoundHound Inc. He also co-founded Synapse.ai, an angel-funded, Stanford StartX accelerator company that developed an innovative enterprise virtual assistant solution. With his diverse expertise and strong leadership, Mehul guides the product vision, strategy, definition and development to deliver delightful experience to our customers at Vitaliti. \n\nHe holds an MS in Management Science and Engineering from Stanford University and BS in Electrical Engineering from University of California, Davis. In his free time, he enjoys swimming, yoga, hiking, and camping with his family.",
+      "personRole": "team",
+      "personImage": "/img/persons/mehul-patel.png"
+    },
+    {
+      "personName": "Yumi Ando, MD",
+      "personPosition": "Head of Medical Team",
+      "personBio": "Dr. Yumi Ando is the Head of the Medical Team at Vitaliti. She brings a wealth of experience from her previous roles, including twenty years of experience as a concierge physician and is currently the sole proprietor of a concierge medical practice, where she provides high-touch medical care to a small panel of patients with 24/7 availability. Yumi is also a recipient of numerous awards and honors for her contributions to patient care and health policy, including at the Department of State. \n\nShe has a Master's in Public Health, holds a Medical degree from Stanford University School of Medicine, where she also completed her residency in Internal Medicine. She is Board-Certified in both Internal Medicine and Integrative Medicine, securing a Fellowship through the Academy of Integrative Health and Medicine. In her free time, she enjoys running, knitting, and reading historical fiction as well as spending time with her family.",
+      "personRole": "team",
+      "personImage": "/img/persons/yumi-ando.png"
+    },
+    {
+      "personName": "Tim Calhoun",
+      "personPosition": "VP of Engineering",
+      "personBio": "Tim Calhoun is the VP of Engineering at Vitaliti, bringing a wealth of experience and expertise in software development and engineering management to his role. Prior to Vitaliti, Tim served as VP of Server Side Engineering at SoundHound, as well as held key roles at Yahoo!, Hewlett-Packard, and Lockard & White. Throughout his career, Tim has demonstrated exceptional leadership in driving high-performance engineering teams and delivering innovative technical solutions. His extensive experience ranges from low level software development and scalable system design, to building high functioning engineering teams. \n\nHe holds a Master's degree in Software Engineering from UT Austin and a Bachelor's degree in Electrical Engineering from University of Michigan. In his free time, Tim enjoys time with his family, running, cooking, and constructing over engineered chicken coops.",
+      "personRole": "team",
+      "personImage": "/img/persons/tim-calhoun.png"
+    },
+    {
+      "personName": "Aqil Rashid",
+      "personPosition": "Chief of Staff",
+      "personBio": "Aqil Rashid is the Chief of Staff at Vitaliti. He brings years of healthcare and business operations experience from across the US and the Middle East. Prior to Vitaliti, Aqil was a Consultant at Bain & Company where he analyzed markets for the largest healthcare merger in history and developed strategy for ambulatory surgery centers & community health centers. Aqil has demonstrated exceptional skills in strategic planning, project management, and team leadership. \n\nHe holds a Bachelor's degree in Quantitative Econometrics from Brown University. In his free time, he enjoys curating music from across the world, traveling like a local, and spending time with friends and family.",
+      "personRole": "team",
+      "personImage": "/img/persons/aqil-rashid.png"
+    },
+    {
+      "personName": "Evaleen Jones, MD",
+      "personPosition": "Director of Medical Operations",
+      "personBio": "Dr. Evaleen Jones currently is the Director of Medical Operations at Vitaliti, offering her extensive expertise in clinical medicine to the team. She has been a Clinical Professor and Practicing Physician at Stanford University since 1995. She is triple board certified in Family Medicine, Hospice and Palliative Medicine and Addiction Medicine. In 1988, Dr. Jones founded Child Family Health International, a non-profit organization offering ethical, Fair-Trade global health opportunities to students and academic institutions. Her commitment to enhancing the delivery of healthcare, improving patient outcomes continues in her work at Vitaliti. \n\nShe holds a Doctor of Medicine degree from Stanford University and completed her residency at UCSF Medical Center.",
+      "personRole": "team",
+      "personImage": "/img/persons/evaleen-jones.png"
+    },
+    {
+      "personName": "Sana Jivraj, MD",
+      "personPosition": "Director of Integrative Medicine",
+      "personBio": "Dr. Sana Jivraj currently serves as Director of Integrative Medicine at Vitaliti, bringing her extensive clinical experience to the team. She is a Board Certified Family Medicine physician with subspecialty fellowship training in Integrative Medicine from the Academy of Integrative Health and Medicine. She has cultivated expertise in the evolving realms of aging and longevity research. \n\nShe completed her clinical residency at the prestigious Robert Wood Johnson Family Medicine Residency Program in New Jersey. She obtained her Doctor of Medicine degree from St. George's University School of Medicine and her undergraduate education at the University of Toronto in Toronto, Canada. In addition to her role at Vitaliti, she continues to provide care for patients in her clinical practice.",
+      "personRole": "team",
+      "personImage": "/img/persons/sana-jivraj.png"
+    },
+    {
+      "personName": "Rick Cohen, MD",
+      "personPosition": "Director of Medical Innovation",
+      "personBio": "Dr. Rick Cohen is the Director of Medical Innovation at Vitaliti, bringing his extensive background in medical research and healthcare innovation. Prior to Vitaliti, Rick was a Medical Researcher at Ignite Longevity and the Founder of PureClean Performance. His prior roles also include serving as the President of Core 4 Nutrition. Rick's vast experience in health, his pioneering approach to longevity, and his ability to merge medicine with technology make him a valuable asset to the team. \n\nHe received his Doctor of Medicine degree from Hahnemann University Medical School and completed his undergraduate studies in Biomedical/Medical Engineering at Duke University. Rick's personal and professional passion is for all things health and longevity. Whether it be preparing home cooked organic family meals and hiking at high altitude to using individualized biometrics to optimize his personal vitality protocol.",
+      "personRole": "team",
+      "personImage": "/img/persons/rick-cohen.png"
+    },
+    {
+      "personName": "Gail Pyle, MD",
+      "personPosition": "Director of Implementation",
+      "personBio": "Gail Pyle is the Director of Implementation at Vitaliti, bringing her extensive medical background to elevate the company's customer implementation strategy. Prior to her current role, Gail was an Internal Medicine Physician at Sutter Health and the Associate Director and Co-Founder of the Stanford Celiac Sprue Management Clinic. \n\nShe earned her Doctor of Medicine degree from Stanford University and completed her Residency in Internal Medicine at Stanford University.",
+      "personRole": "team",
+      "personImage": "/img/persons/gail-pyle.png"
+    },
+    {
+      "personName": "Michelle Villagrand",
+      "personPosition": "Director of Customer Success",
+      "personBio": "Michelle Villegrand is the Director of Customer Success at Vitaliti. Prior to joining Vitaliti, Michelle held significant roles at Iron Ox as a Customer Experience and Support Manager, IXL Learning as a Customer Support Manager, and Education.com as a Customer Success Manager. In these roles, Michelle demonstrated exceptional skills in customer service, strategic planning, and team leadership. Michelle holds a Bachelor’s Degree in Business, Management, Marketing, and Support Services from the Queensland University of Technology.",
+      "personRole": "team",
+      "personImage": "/img/persons/michelle-villagrand.png"
+    },
+    {
+      "personName": "Adam Barde",
+      "personPosition": "Director of Business Development",
+      "personBio": "Adam Barde is the Director of Business Development at Vitaliti. Adam is an innovative and hands-on healthcare leader and management strategy consultant with 25 years of experience across the healthcare spectrum. \n\nHe received a Master of Health Administration from the USC Sol Price School of Public Policy and a Master of Science in Gerontology from the USC Leonard Davis School of Gerontology, and a Bachelor of Arts in Psychology from UC San Diego. In his free time, Adam is an avid reader and thoroughly enjoys listening to many podcasts and repeating random facts (and often dad jokes) to his family where he is most often met with deep eye rolls.",
+      "personRole": "team",
+      "personImage": "/img/persons/adam-barde.png"
+    },
+    {
+      "personName": "Alex Hawayek",
+      "personPosition": "Office of the CEO",
+      "personBio": "Alex Hawayek collaborates closely with the Office of the CEO, leveraging her extensive experience to acquire top talent, execute strategic plans, and cultivate crucial industry relationships. She brings a wealth of expertise in health, fitness, and strategic leadership to Vitaliti. With a Bachelor’s Degree in Communications from Santa Clara University, Alex has seamlessly integrated her passion for wellness into her professional journey. Prior to joining Vitaliti, she honed her skills as Director of Client Services at Groupe Insearch, where she was a talent partner to CEOs, VCs and Family Offices, and as a Business Development Manager at Advantis Global, where she excelled in acquiring key clients and driving revenue growth through strategic planning. \n\nBeyond her professional pursuits, Alex is deeply committed to personal well-being. She enjoys staying active through group workout classes, sharing her expertise as a Barre, Yoga, and Group Fitness Instructor, and continually exploring avenues for health and fitness. She also enjoys traveling, trying out new restaurants, spending time with friends and family, and hanging with her dog Bruno!",
+      "personRole": "team",
+      "personImage": "/img/persons/alex-hawayek.png"
+    },
+    {
+      "personName": "Elena Panzeri",
+      "personPosition": "Nutrition and Microbiome Scientist",
+      "personBio": "Elena Panzeri is a Nutrigenomics and Microbiome Scientist at Vitaliti. She has extensive experience in Personalized Nutrition, specializing in microbiome and nutrigenetics due to her collaboration with Intus Bioscience and a previous role at Dante Labs. \n\nElena received her MSc in Genetics and Nutrition from St. Mary's University (London) and her BSc in Health Sciences/Nutritional Therapy from the University of Westminster. Additionally, she has been a Naturopath for over 20 years as well as a Functional Medicine practitioner.",
+      "personRole": "team",
+      "personImage": "/img/persons/elena-panzeri.png"
+    },
+    {
+      "personName": "Stephen Price",
+      "personPosition": "Staff Data Scientist",
+      "personBio": "Stephen Price is a Staff Data Scientist at Vitaliti. Stephen works closely with the medical team to develop Vitaliti's longevity baselining and health data interpretation. Prior to Vitaliti, Stephen contributed to the fields of health monitoring and computational biology, publishing in industry-leading venues such as PNAS, Bioinformatics, and Psychological Sciences. \n\nStephen holds a B.S. in Computational Biology from Carnegie Mellon University School of Computer Science. In his free time, Stephen enjoys learning languages, playing board games, and listening to longevity podcasts.",
+      "personRole": "team",
+      "personImage": "/img/persons/stephen-price.png"
+    },
+    {
+      "personName": "Chirag Kulkarni",
+      "personPosition": "Director of Operations",
+      "personBio": "Chirag Kulkarni is a Director of Operations at Vitaliti. Before joining Vitaliti, Chirag served as a Senior Consultant at McKinsey & Company, where he focused on GTM and Product work in the technology sector. He has performed extensive research at the University of Virginia's Link Lab, where he designed and tested virtual self-driving vehicles. \n\nChirag holds a Master's degree in Data Science and a Bachelor's degree in Mathematics and Computer Science, both from the University of Virginia. In his free time, Chirag enjoys golfing, skiing and hiking with friends.",
+      "personRole": "team",
+      "personImage": "/img/persons/chirag-kulkarni.png"
+    },
+    {
+      "personName": "Prasanna Gorrepati",
+      "personPosition": "Software Engineer",
+      "personBio": "Prasanna Gorrepati is a Software Engineer at Vitaliti. She has previously worked as a Software Engineer at Tata Consultancy Services where she designed and developed the \"Ericsson Machine Learning Classification and Analytics Tool\" which significantly improved the efficiency of software crash dump analysis. She has demonstrated expertise in developing backend applications, machine learning models, implementing RESTful APIs, working with databases, and various other software development practices. \n\nPrasanna holds a Master's degree in Computer Science from San Jose State University. In her free time, Prasanna enjoys hiking, practicing yoga and playing board games.",
+      "personRole": "team",
+      "personImage": "/img/persons/prasanna-gorrepati.png"
+    },
+    {
+      "personName": "Sophia Fay",
+      "personPosition": "Product Manager",
+      "personBio": "Sophia Fay is a Product Manager at Vitaliti. Her role at Vitaliti involves the planning and execution of product strategies to ensure alignment with the company's goals and objectives. \n\nSophia holds a Bachelor's degree in Computer Science and Computational Biology from Stanford University. In her free time, Sophia loves to go hiking, do yoga, and play pickleball.",
+      "personRole": "team",
+      "personImage": "/img/persons/sophia-fay.png"
+    },
+    {
+      "personName": "Jo Joy",
+      "personPosition": "Fitness Coach",
+      "personBio": "Jo Joy currently serves as a Fitness Coach at Vitaliti, bringing her extensive experience in coaching health and fitness. \n\nShe is the founder of JoJoy Fitness and was named “Best of SF” by San Francisco Magazine for her excellence in personal training. Certified through the National Academy of Sports Medicine as a Personal Trainer, Behavior Change Specialist and Nutrition Coach, she continues to help people realize their health and fitness goals so they can enjoy life to the fullest. \n\nShe studied at Westmont College and Bryan University. In her free time, you can find Jo surfing, skateboarding, snowboarding or lounging at the beach.",
+      "personRole": "team",
+      "personImage": "/img/persons/jo-joy.png"
+    },
+    {
+      "personName": "Sam Stewartz",
+      "personPosition": "Fitness Coach",
+      "personBio": "Sam Stewartz currently serves as a Fitness Coach at Vitaliti, bringing a wealth of knowledge and experience in fitness coaching. Prior to this role, she served as Regional Director of Personal Training Operations, Employee Development Coach, multi-club General Manager, and in Business Development for Platinum Fitness Gyms over twelve years, as Operation Manager for Fairchild Sports Performance. Sam's extensive background in fitness and personal training, combined with her leadership and development skills, contribute to her role in helping clients achieve their health and fitness goals at Vitaliti.",
+      "personRole": "team",
+      "personImage": "/img/persons/sam-stewartz.png"
+    },
+    {
+      "personName": "Sam Stewartz",
+      "personPosition": "Fitness Coach",
+      "personBio": "Sam Stewartz currently serves as a Fitness Coach at Vitaliti, bringing a wealth of knowledge and experience in fitness coaching. Prior to this role, she served as Regional Director of Personal Training Operations, Employee Development Coach, multi-club General Manager, and in Business Development for Platinum Fitness Gyms over twelve years, as Operation Manager for Fairchild Sports Performance. Sam holds a B.S. in Kinesiology from West Chester University of Pennsylvania. Sam enjoys outdoor activities, writing, reading, creating new ways of working out, cooking and loves animals.",
+      "personRole": "team",
+      "personImage": "/img/persons/sam-stewartz.png"
+    },
+    {
+      "personName": "Dylan Ingham",
+      "personPosition": "Staff Scientist",
+      "personBio": "Dylan currently serves as a Data Scientist at Vitaliti. Prior to joining Vitaliti, he worked as a Data Scientist at UCB. With a strong quantitative background in data science and chemistry, he brings a unique perspective to his role. Dylan is pursuing a Bachelor's Degree in Data Science and Chemistry from Northeastern University.",
+      "personRole": "team",
+      "personImage": "/img/persons/dylan-ingham.png"
+    },
+    {
+      "personName": "Denis Varvanets",
+      "personPosition": "Exercise Scientist",
+      "personBio": "Denis Varvanets is an Exercise Scientist at Vitaliti, specializing in VO2 Max training. His prior roles include serving as a Sports Coach at Bay Club and as an Exercise Physiologist at Bodyhacker. His extensive experience in exercise science and physiology makes him a crucial asset to the Vitaliti team. Denis holds a Master's Degree from Moscow State University.",
+      "personRole": "team",
+      "personImage": "/img/persons/denis-varvanets.png"
+    },
+    {
+      "personName": "Jamie Vorzimmer",
+      "personPosition": "Customer Success Representative",
+      "personBio": "Jamie Vorzimmer currently serves as a Customer Success Representative at Vitaliti, where she brings her extensive experience in customer support and public relations. Prior to joining Vitaliti, Jamie was a Senior Customer Support Analyst at Education.com and a Public Affairs Representative at ExxonMobil Chemical Company. She also served as Editor in Chief at CSP Magazine and worked in Public Relations at Circle K. Her diverse background in customer success, public relations, and editorial roles contributes significantly to her ability to ensure customer satisfaction and success at Vitaliti. Jamie holds a BS in Public Relations from Northern Arizona University. In her free time, Jamie loves to bake and go to the beach with her family.",
+      "personRole": "team",
+      "personImage": "/img/persons/jamie-vorzimmer.png"
+    },
+    {
+      "personName": "Radha Malhotra",
+      "personPosition": "Operations Analyst",
+      "personBio": "Radha Malhorta is an Operations Analyst at Vitaliti, bringing her strong background in Neuroscience to the team. Her role at Vitaliti involves assisting in various operational tasks, contributing to the efficient functioning of the team. She is a graduate of Rice University, where she completed her Bachelor's degree in Neuroscience.",
+      "personRole": "team",
+      "personImage": "/img/persons/radha-malhotra.png"
+    },
+    {
+      "personName": "Armaan Fazal",
+      "personPosition": "Operations Analyst",
+      "personBio": "Armaan Fazal is an Operations Analyst at Vitaliti, bringing his experience in medical research and patient care to the role. Prior to joining Vitaliti, Armaan was a Research Assistant at UC San Diego - School of Medicine, where he conducted experiments to identify various types and concentrations of proteins in the kidneys and lungs of experimental mice. He also served as a Medical Assistant at Access Medical Centers, where he performed both front office duties such as scheduling patients and insurance verification, and back office duties including assisting on minor surgeries and wound care. Armaan holds a BS in Biological Sciences with an emphasis on Human Biology from UC San Diego and has completed a Post-baccalaureate program at UC Davis. Armaan loves to workout, spend time with family, friends, and his dog, and is a huge supporter of all professional Bay Area sports teams.",
+      "personRole": "team",
+      "personImage": "/img/persons/armaan-fazal.png"
+    },
+    {
+      "personName": "Abia Rehman",
+      "personPosition": "Operations Analyst",
+      "personBio": "Abia Rehman is an Operations Analyst at Vitaliti. She is currently studying at De Anza College. Her role at Vitaliti involves assisting in the management of daily operations and wearables, contributing to the smooth and efficient running of the organization.",
+      "personRole": "team",
+      "personImage": "/img/persons/abia-rehman.png"
+    },
+    {
+      "personName": "Max Kamrani",
+      "personPosition": "Data Scientist",
+      "personBio": "Max Kamrani is a Data Scientist at Vitaliti. He brings a wealth of experience in AI and operations engineering from his previous experiences. There, Max employed his expertise in areas such as internal operations, Data & AI implementation/architecture, networking, community building, and more, while working with early-stage startups in tech, biotech, and AI in France and the US. He holds a Bachelor's and Master's degree in Mathematics and Computer Science from CentraleSupélec. He is actually a certified drone pilot, and he also used to run 10k under 32 minutes and was competing at a national level.",
+      "personRole": "team",
+      "personImage": "/img/persons/max-kamrani.png"
+    },
+    {
+      "personName": "Fish Zhu",
+      "personPosition": "Team Assistant",
+      "personBio": "Fish Zhu is the Team Assistant at Vitaliti. Prior to this role, she honed her skills as a Digital Marketing Coordinator at Desert Foothills Digital Marketing and as an Executive Director at KnowAthens. Fish holds a Bachelor's degree in Entertainment and Media Studies from the University of Georgia, Grady College of Journalism and Mass Communication. In her free time, Fish enjoys creating digital art, trying new restaurants and playing the violin.",
+      "personRole": "team",
+      "personImage": "/img/persons/fish-zhu.png"
+    },
+    {
+      "personName": "Kristin Kelly",
+      "personPosition": "Office Manager",
+      "personBio": "Kristin Kelly is the Office Manager at Vitaliti. She has previously managed several LuluLemon stores and has been a dance instructor. Kristin studied at The Art Institutes where she focused on Fashion Marketing and Management.",
+      "personRole": "team",
+      "personImage": "/img/persons/kristin-kelly.png"
+    },
+    {
+      "personName": "Brian Kennedy, PhD",
+      "personPosition": "Director, Centre for Healthy Longevity, National University of Singapore",
+      "personBio": "Dr. Brian Kennedy is internationally recognized for his research in the basic biology of aging and as a visionary committed to translating research discoveries into new ways of detecting, delaying, preventing, and treating human aging and associated diseases. He is a Distinguished Professor in Biochemistry and Physiology at the Yong Loo Lin School of Medicine at the National University Singapore (NUS) and serves as Director of (1) the Centre for Healthy Longevity at the National University Health System, (2) the Healthy Longevity Translational Research Programme and (3) the Asian Centre for Reproductive Longevity and Equality at NUS. Collectively, NUS aging research seeks to demonstrate that longevity interventions can be successfully employed in humans to extend the health span, the disease-free and highly functional period of life.",
+      "personRole": "team",
+      "personImage": "/img/persons/brian-kennedy.png"
+    },
+    {
+      "personName": "Azra Raza, MD",
+      "personPosition": "Professor & Director, Medicine & Cancer Research, Columbia University",
+      "personBio": "Dr. Azra Raza is a Professor of Medicine and Director of the MDS Center at Columbia University in New York, NY. She started her research in Myelodysplastic Syndromes (MDS) in 1982 and moved to Rush University, Chicago, Illinois in 1992, where she was the Charles Arthur Weaver Professor in Oncology and Director, Division of Myeloid Diseases. The MDS Program, along with a Tissue Repository containing more than 50,000 samples from MDS and acute leukemia patients was successfully relocated to the University of Massachusetts in 2004 and to Columbia University in 2010.",
+      "personRole": "team",
+      "personImage": "/img/persons/azra-raza.png"
+    },
+    {
+      "personName": "Yatin Mundkur",
+      "personPosition": "CEO, Cellworks",
+      "personBio": "Yatin Mundkur is the CEO and Board Director and is committed to the delivery of Personalized Medicine for cancer care and supports the company in developing company strategy, R&D and commercialization. Over the last 25 years, Yatin has launched businesses in medical diagnostics, technology and communications, delivering strong returns to investors consistently. As a Partner of Artiman Ventures he focuses on early-stage Technology and Healthcare investments. He is also on the Boards of Prysm, mSupply, Virsec, Xambala, Yantra and zSpace. Prior to joining Artiman Ventures, Yatin Mundkur was Managing Director at TeleSoft Partners, where he led investments in over twenty companies, in the early stage semiconductor and software sectors. Formerly, he held executive and engineering roles in multiple technology companies. He has been awarded fourteen patents, in the areas of computer architectures, digital consumer electronics, semiconductor design, and software. Yatin holds a B.S.E.E. from MSU of Baroda, India, and a M.S.E.E. from the University of Texas at Austin.",
+      "personRole": "team",
+      "personImage": "/img/persons/yatin-mundkur.png"
+    },
+    {
+      "personName": "Karim Lakhani, PhD",
+      "personPosition": "Professor, Harvard Business School",
+      "personBio": "Dr. Karim R. Lakhani is the Dorothy & Michael Hintze Professor of Business Administration at the Harvard Business School. He is the founding director of the Laboratory for Innovation Science at Harvard and the Principal Investigator of the NASA Tournament Lab at the Harvard Institute for Quantitative Social Science and the faculty co-founder of the Harvard Business School Digital Initiative and the Harvard Business Analytics Program. He specializes in technology management and innovation. His research examines crowd-based innovation models and the digital transformation of companies and industries. He is the co-director of the Harvard Business Analytics Program, an online executive education program focused on producing the next generation of digital and analytics leaders. He serves on the Board of Directors of Mozilla Corporation, VideaHealth & StormForge. He is an academic partner (part-time) at Flagship Pioneering and advises several AI-based startups.",
+      "personRole": "team",
+      "personImage": "/img/persons/karim-lakhani.png"
+    },
+    {
+      "personName": "Aric Prather, PhD",
+      "personPosition": "Professor, Psychiatry, UCSF Weill Institute for Neurosciences",
+      "personBio": "Dr. Aric Prather is a psychologist who treats insomnia with individual cognitive behavioral therapy. He also provides behavioral therapy to help patients adjust to using their continuous positive airway pressure (CPAP) equipment. Prather's research focuses on how poor sleep impacts physical health and emotional well-being. He measures sleep habits to determine which study participants are vulnerable to sleep-related health problems and which are resilient, with the goal of developing new treatments. Prather earned his doctoral degree in clinical and biological health psychology from the University of Pittsburgh. Prather is a member of the Sleep Research Society, American Psychological Association, American Psychosomatic Society and Society for Affective Science.",
+      "personRole": "team",
+      "personImage": "/img/persons/aric-prather.png"
+    },
+    {
+      "personName": "Stanley Rockson, MD",
+      "personPosition": "Professor, Lymphatic Research & Medicine, Stanford",
+      "personBio": "Dr. Stanley G. Rockson is the Allan and Tina Neill Professor of Lymphatic Research and Medicine at Stanford University. He is also the Chief of Consultative Cardiology and the Director of the Stanford Center for Lymphatic and Venous Disorders at Stanford University. He is a pioneering leader in the field of lymphedema, co-founder of the Lymphatic Education and Research Network (LE&RN) and a Director at the American Board of Venous and Lymphatic Medicine. Dr. Rockson brings over 30 years of leadership and experience in the field.",
+      "personRole": "team",
+      "personImage": "/img/persons/stanley-rockson.png"
+    },
+    {
+      "personName": "Maddalena Adorno, PhD",
+      "personPosition": "Co-founder & CEO at Dorian Therapeutics, Inc.",
+      "personBio": "Maddalena Adorno is the co-founder and CEO of Dorian Therapeutics, Inc. and the main inventor of the senoblocker technology that the company is pursuing. In 2019 she was an invited speaker at the Time 100 Health Summit where she presented senoblockers as potential therapeutics for aging. Before founding Dorian, Maddalena completed her postdoctoral training at Stanford University studying Stem Cell and Aging Biology. She was then awarded a Siebel fellowship and received two grants to further advance her research. During her 15 years spent in Academia, she published 13 papers in high-impact journals including Nature, Cell and Science, and her discoveries in stem cell biology were considered amongst the most important research at Stanford University in 2013. In 2014, she was the co-founder of StemGuard, Inc., a biotech company developing neuroprotectors for degenerative diseases. She is also an inventor on several patents in cancer biology, aging and degenerative diseases. Maddalena sits on the advisory board of Kin-Keepers, a company that uses new technologies to improve life quality for the elderly. She also advises the Stanford Down Syndrome Research Center, where her expertise in aging biology helps in designing new treatments for patients with Down Syndrome. Maddalena received her M.Sc. in Medical Biotechnology magna cum laude and a Ph.D. in Biomedicine from the University of Padova, Italy. During that time, she co-founded and led the National Council of Biotechnology Students (CNSB) and she served for two years on the executive board of the National Italian Association of Biotechnologists (ANBI).",
+      "personRole": "advisor",
+      "personImage": "/img/persons/maddalena-adorno.png"
+    },
+    {
+      "personName": "Erez Podoly, PhD",
+      "personPosition": "Head, Therapeutic Investments, Cleveland Clinic Ventures",
+      "personBio": "Dr. Erez Podoly is the head of Therapeutic and Diagnostic investment at Cleveland Clinic Ventures (CCV); the Board Member of five CCV portfolio companies; and an advisor for other VC firms. Dr. Podoly was the Founder and CEO of startups (MightyGate; Slive) in the non-invasive diagnostics sector. Prior to his career as an entrepreneur, he was focused on HealthTech and Biotech investments at Artiman Ventures. At Stanford University, he pursued research with a Nobel Laureate in Chemistry. Dr. Podoly is a thought leader, frequent invited speaker (TEDx), active panelist, and judge in startup competitions. He has a Ph.D. in Neurobiology (Alzheimer’s research), M.Sc. in Biochemistry (Cancer research) and B.Sc. in Chemistry.",
+      "personRole": "advisor",
+      "personImage": "/img/persons/erez-podoly.png"
+    },
+    {
+      "personName": "Tao Liang, PhD",
+      "personPosition": "VP of Engineering, Mojo Vision",
+      "personBio": "Tao Liang, PhD, is a seasoned technology generalist and visionary leader with over 25 years of experience in the industry. He is currently the Vice President of Engineering at Mojo Vision Inc., Tao leads the smart contact lensgroup, where he oversees all facets of the division, including profit and loss management, hardware and software development, and strategic partnerships. Under his leadership, Tao spearheaded the creation of an end-to-end 'Eye OS' for augmented reality, showcasing his expertise in architecting and developing complex embedded systems. Prior to his role at Mojo Vision, Tao held the position of Director of Machine Learning & Platform Software at NIO, where he was instrumental in driving the software development lifecycle for the company's digital cockpit platforms. He was also the Co-founder and Chief Technology Officer of Synapse.ai, where he demonstrated his entrepreneurial spirit by spearheading the development of a natural language understanding (NLU) product tailored for mobile professionals. Leveraging his expertise in applied machine learning and cloud services, he led the development of a comprehensive system integrating with enterprise data sources and productivity suites, earning recognition from prestigious accelerators like the Stanford StartX program.",
+      "personRole": "advisor",
+      "personImage": "/img/persons/tao-liang.png"
+    },
+    {
+      "personName": "Alex Trapp",
+      "personPosition": "Staff Scientist, Retro Biosciences",
+      "personBio": "Alex is building computational biology at Retro. He spent time in Dr. Vadim Gladyshev`s systems aging research group at Harvard, where he developed the first framework for single-cell epigenetic age profiling. Alex studied computational biology at University of Rochester, where he worked with comparative biologist Dr. Vera Gorbunova on characterizing the hematopoietic and immune landscape of the long-lived naked mole-rat. Alex has contributed to a dozen scientific articles published in top journals, and is passionate about bridging experimental and computational biology.",
+      "personRole": "advisor",
+      "personImage": "/img/persons/alex-trapp.png"
+    },
+    {
+      "personName": "Max Unfried",
+      "personPosition": "Kennedy Lab, NUS Centre for Healthy Longevity",
+      "personBio": "Maximilian is a PhD student from the Kennedy Lab at the National University of Singapore Centre for Healthy Longevity, where he uses methodologies from AI and Complexity Science to investigate the ageing process. He holds a BSc in Integrated Life Science and a MSc in Complex Adaptive Systems. Prior to joining the Kennedy Lab, he spent a few years in the startup industry as a Machine Learning Engineer, developing AI systems in the medical, financial and agricultural sector. He is a passionate Data Scientist and has research and hands-on experience in Machine Learning and Deep Learning in the domains of Natural Language Processing and Computer Vision. He likes to share his knowledge of Artificial Intelligence in form of talks, seminars and panel discussions. He has been involved as an advisor for multinational corporations, investors and politicians with matters on the future of Artificial Intelligence, Crypto and Longevity.",
+      "personRole": "advisor",
+      "personImage": "/img/persons/max-unfried.png"
+    }
+  ]

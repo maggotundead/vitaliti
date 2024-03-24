@@ -1,5 +1,5 @@
-const cookieModal = document.getElementById('cookie-modal');
-const joinModal = document.getElementById('join-modal');
+// const cookieModal = document.getElementById('cookie-modal');
+// const joinModal = document.getElementById('join-modal');
 
 const mobileCheck = () => {
     let check = false;
@@ -7,7 +7,7 @@ const mobileCheck = () => {
     return check;
 };
 
-console.log(mobileCheck());
+// console.log(mobileCheck());
 
 document.querySelectorAll('a[href^="#"]').forEach(anchor => {
     anchor.addEventListener('click', function (e) {
@@ -160,9 +160,65 @@ if (blockTeam) {
     const personModalPosition = personModal.querySelector('.person-position');
     const personModalBio = personModal.querySelector('.person-bio');
 
-    const team = document.querySelectorAll('.team-item');
-    team.forEach(card => {
-        card.addEventListener('click', () => {
+    const mainTeam = document.querySelector('.block-main-team');
+    const mainTeamList = mainTeam.querySelector('.team-list');
+    const advisorsTeam = document.querySelector('.block-advisors-team');
+    const advisorsTeamList = advisorsTeam.querySelector('.team-list');
+
+    let teamArray = [];
+    let mainTeamArray = [];
+    let advisorTeamArray = [];
+
+
+    fetch('/js/team.json')
+    .then(r => r.json())
+    .then( data => {
+
+
+        // teamArray.push(data);
+        // mainTeamArray = teamArray[0].filter(item => item.personRole === 'team');
+        // advisorTeamArray = teamArray[0].filter(item => item.personRole === 'advisor');
+        // console.log(mainTeamArray);
+        // console.log(advisorTeamArray);
+        pushData(data);
+    })
+    .catch(e => console.log('error'));
+
+    function pushData(data) {
+        teamArray.push(data);
+        mainTeamArray = teamArray[0].filter(item => item.personRole === 'team');
+        advisorTeamArray = teamArray[0].filter(item => item.personRole === 'advisor');
+    }
+
+    const renderTeamCard = card => {
+        return `
+            <div
+                class="team-item"
+                data-person-image="${ card.personImage }"
+                data-person-name="${ card.personName }"
+                data-person-position="${ card.personPosition }"
+                data-person-text="${ card.personBio }"
+            >
+                <div class="team-item-banner">w
+                    <img src="${ card.personImage }" alt="" loading="lazy">
+                    <div class="team-item-descr"><span>${ card.personBio }</span></div>
+                    <div class="team-item-readmore" role="button">READ MORE</div>
+                </div>
+                <div class="team-item-name">${ card.personName }</div>
+                <div class="team-item-position">${ card.personPosition }</div>
+            </div>
+        `
+    }
+
+
+    setTimeout(() => {
+        mainTeamArray.forEach(person => mainTeamList.innerHTML += renderTeamCard(person));
+        advisorTeamArray.forEach(person => advisorsTeamList.innerHTML += renderTeamCard(person));
+    }, 500);
+
+    window.addEventListener('click', (e) => {
+        if (e.target.classList.contains('team-item')) {
+            let card = e.target;
             const cardImage = card.dataset.personImage;
             const cardName = card.dataset.personName;
             const cardPosition = card.dataset.personPosition;
@@ -173,9 +229,11 @@ if (blockTeam) {
             personModalName.textContent = cardName;
             personModalPosition.textContent = cardPosition;
             personModalBio.innerText = cardBio;
-        });
+        }
     });
+
 }
+
 
 
 // document.querySelectorAll('[data-modal-join="open"]').forEach(btn => {
