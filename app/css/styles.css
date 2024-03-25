@@ -2022,9 +2022,6 @@ section {
       padding-top: 128px !important;
       padding-bottom: 72px !important; } }
 
-.block-team:has(.team-list:empty) {
-  display: none; }
-
 .block-team .team-list {
   margin-top: 48px;
   width: 100%;

@@ -195,6 +195,9 @@ if (blockTeam) {
         // console.log(mainTeamArray);
         // console.log(advisorTeamArray);
         pushData(data);
+
+        mainTeamArray.forEach(person => mainTeamList.innerHTML += renderTeamCard(person));
+        advisorTeamArray.forEach(person => advisorsTeamList.innerHTML += renderTeamCard(person));
     })
     .catch(e => console.log('error'));
 
@@ -225,10 +228,10 @@ if (blockTeam) {
     }
 
 
-    setTimeout(() => {
-        mainTeamArray.forEach(person => mainTeamList.innerHTML += renderTeamCard(person));
-        advisorTeamArray.forEach(person => advisorsTeamList.innerHTML += renderTeamCard(person));
-    }, 500);
+    // setTimeout(() => {
+    //     mainTeamArray.forEach(person => mainTeamList.innerHTML += renderTeamCard(person));
+    //     advisorTeamArray.forEach(person => advisorsTeamList.innerHTML += renderTeamCard(person));
+    // }, 500);
 
     window.addEventListener('click', (e) => {
         if (e.target.classList.contains('team-item')) {

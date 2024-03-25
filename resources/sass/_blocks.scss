@@ -1209,9 +1209,9 @@ section {
             padding-bottom: 72px !important;
         }
     }
-    &:has(.team-list:empty) {
-        display: none;
-    }
+    // &:has(.team-list:empty) {
+    //     display: none;
+    // }
     .team-list {
         margin-top: 48px;
         width: 100%;
